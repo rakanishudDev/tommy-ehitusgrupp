@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/tommy-ehitusgrupp/static/css/main.179a6f7a.css",
+    "main.js": "/tommy-ehitusgrupp/static/js/main.673ad074.js",
+    "static/js/787.0f5a48db.chunk.js": "/tommy-ehitusgrupp/static/js/787.0f5a48db.chunk.js",
+    "static/media/puitaed.jpg": "/tommy-ehitusgrupp/static/media/puitaed.99b5122b1e2688a25438.jpg",
+    "static/media/33.jpg": "/tommy-ehitusgrupp/static/media/33.66a212389700d168edd2.jpg",
+    "static/media/5.jpg": "/tommy-ehitusgrupp/static/media/5.3f96fa9bb94b5cc13eed.jpg",
+    "static/media/53.jpg": "/tommy-ehitusgrupp/static/media/53.3f96fa9bb94b5cc13eed.jpg",
+    "static/media/32.jpg": "/tommy-ehitusgrupp/static/media/32.75cbc5ef2fa3710868d0.jpg",
+    "static/media/12.jpg": "/tommy-ehitusgrupp/static/media/12.64fb45f8378f49e48898.jpg",
+    "static/media/14.jpg": "/tommy-ehitusgrupp/static/media/14.d03b6a1cf3df171cca64.jpg",
+    "static/media/13.jpg": "/tommy-ehitusgrupp/static/media/13.18e9c36d0938dd6d678c.jpg",
+    "static/media/55.jpg": "/tommy-ehitusgrupp/static/media/55.a5078b7ae03b8e6fab3a.jpg",
+    "static/media/11.jpg": "/tommy-ehitusgrupp/static/media/11.fa7f079ea75c40a27950.jpg",
+    "static/media/41.jpg": "/tommy-ehitusgrupp/static/media/41.93b7d4f8d1649f984c78.jpg",
+    "static/media/44.jpg": "/tommy-ehitusgrupp/static/media/44.5f2439d0795f60323985.jpg",
+    "static/media/54.jpg": "/tommy-ehitusgrupp/static/media/54.87efd930192b039803c3.jpg",
+    "static/media/31.jpg": "/tommy-ehitusgrupp/static/media/31.9643ce5030909cf743be.jpg",
+    "static/media/42.jpg": "/tommy-ehitusgrupp/static/media/42.e889048e597cbe516f2d.jpg",
+    "static/media/43.jpg": "/tommy-ehitusgrupp/static/media/43.525146dec0c28efd2715.jpg",
+    "static/media/51.jpg": "/tommy-ehitusgrupp/static/media/51.eca201ad98580596e310.jpg",
+    "static/media/design-room.jpg": "/tommy-ehitusgrupp/static/media/design-room.b1a7410d95b3d933a94b.jpg",
+    "static/media/52.jpg": "/tommy-ehitusgrupp/static/media/52.868bd4655612671ad4d9.jpg",
+    "static/media/22.jpg": "/tommy-ehitusgrupp/static/media/22.b92f2ec227a234bf42f9.jpg",
+    "static/media/21.jpg": "/tommy-ehitusgrupp/static/media/21.18a48c7a7ae870c73786.jpg",
+    "static/media/location.svg": "/tommy-ehitusgrupp/static/media/location.adf07021746239d5c257750dc87b73d3.svg",
+    "static/media/phone.svg": "/tommy-ehitusgrupp/static/media/phone.3e3a6937142adfe31f0d4e84c0712acb.svg",
+    "static/media/mail.svg": "/tommy-ehitusgrupp/static/media/mail.782f5102f06c34c1439dc0e21fa103cd.svg",
+    "index.html": "/tommy-ehitusgrupp/index.html",
+    "main.179a6f7a.css.map": "/tommy-ehitusgrupp/static/css/main.179a6f7a.css.map",
+    "main.673ad074.js.map": "/tommy-ehitusgrupp/static/js/main.673ad074.js.map",
+    "787.0f5a48db.chunk.js.map": "/tommy-ehitusgrupp/static/js/787.0f5a48db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179a6f7a.css",
+    "static/js/main.673ad074.js"
+  ]
+}
