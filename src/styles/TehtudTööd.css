@@ -1,0 +1,42 @@
+
+.tehtudtood-container {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin: 1rem;
+}
+.tehtudtood-row {
+    padding-left: 1rem;
+    border-left: 1px solid rgb(201, 205, 212);
+ 
+
+
+}
+.imgs-container {
+    /* background-color: rgba(248, 248, 255, 0.7); */
+    
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.img-container {
+    max-height: 202px;
+    display: flex;
+    overflow: hidden;
+    height: fit-content;
+    border: solid 1px rgb(162, 162, 162);
+    box-shadow: 3px 3px 8px rgb(50, 50, 50);
+
+}
+.aadress {
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-top: 0;
+}
+.img {
+    width: 300px;
+    object-fit: cover;
+}
+.img:hover {
+    cursor: pointer;
+}

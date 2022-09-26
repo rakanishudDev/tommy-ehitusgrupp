@@ -1,0 +1,77 @@
+.hinnakiri-container {
+    margin: 2rem 0;
+    text-align: left;
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.hinnakir-info {
+    font-weight: 500;
+}
+.table {
+    box-shadow: 3px 3px 8px rgb(103, 103, 103);
+    border: 1px solid rgb(200, 200, 200);
+
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    
+    font-size: 1.1rem;
+}
+.table p {
+    margin: 8px;
+}
+.thead {
+
+    /* border-left: 16px solid rgb(201, 205, 212); */
+    padding-left: 8px;
+    font-weight: 700;
+}
+.th-service {
+    width: 100%;
+}
+.th-price {
+    min-width: 100px;
+}
+.tbody {
+    border-right: 1px solid rgb(235, 235, 235);
+    border-bottom: 1px solid rgb(235, 235, 235);
+    /* border-left: 16px solid rgb(201, 205, 212); */
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+}
+div.tbody>div:nth-of-type(odd) {
+    background: ghostwhite;
+  }
+.thead-row {
+    display: flex;
+    justify-content: space-between;
+}
+.trow {
+    background-color: rgba(248, 248, 255, 0.6);
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(235, 235, 235);
+}
+.trow:hover {
+    background: none;
+}
+.td {
+    min-width: fit-content;
+}
+.td-price-div {
+    display: flex;
+    align-items: center;
+}
+.td-price {
+    min-width: 100px;
+}
+.NB-container {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-left: 16px solid rgba(201, 205, 212, 0);
+}
+.NB {
+    color: red;
+}

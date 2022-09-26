@@ -1,0 +1,18 @@
+.container {
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    max-height: 100%;
+}
+.full-img-container {
+    display: flex;
+}
+.full-img {
+    max-height: 90vh;
+    
+}
