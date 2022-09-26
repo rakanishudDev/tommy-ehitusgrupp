@@ -11,7 +11,7 @@ function App() {
     <Layout>
       <Routes>
         
-          <Route path="/" element={<Homepage />} />
+          <Route path="/tommy-ehitusgrupp" element={<Homepage />} />
           <Route path="/hinnakiri" element={<Hinnakiri />} />
           <Route path="/kontakt" element={<Kontakt />} />
           <Route path="/tehtud-tood" element={<TehtudTööd />} />

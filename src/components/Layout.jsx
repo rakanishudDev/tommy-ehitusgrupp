@@ -23,7 +23,7 @@ const Layout = ({children}) => {
                 </header>
             </div>
             <div className="nav-bar">
-                <p><Link to="/" className={`navbar-anchor ${location.pathname === "/" ? "navbar-active" : ""}`}>AVALEHT</Link></p>
+                <p><Link to="/tommy-ehitusgrupp" className={`navbar-anchor ${location.pathname === "/tommy-ehitusgrupp" ? "navbar-active" : ""}`}>AVALEHT</Link></p>
                 <p><Link to="/hinnakiri" className={`navbar-anchor ${location.pathname === "/hinnakiri" ? "navbar-active" : ""}`}>HINNAKIRI</Link></p>
                 <p><Link to="/tehtud-tood" className={`navbar-anchor ${location.pathname === "/tehtud-tood" ? "navbar-active" : ""}`}>TEHTUD TÖÖD</Link></p>
                 <p><Link to="/kontakt" className={`navbar-anchor ${location.pathname === "/kontakt" ? "navbar-active" : ""}`}>KONTAKT</Link></p>
