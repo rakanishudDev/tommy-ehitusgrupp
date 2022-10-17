@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tommy-ehitusgrupp/static/css/main.4c7fc4d1.css",
-    "main.js": "/tommy-ehitusgrupp/static/js/main.1ae68f76.js",
-    "static/js/787.0f5a48db.chunk.js": "/tommy-ehitusgrupp/static/js/787.0f5a48db.chunk.js",
+    "main.js": "/tommy-ehitusgrupp/static/js/main.26307bf3.js",
+    "static/js/787.50324aa8.chunk.js": "/tommy-ehitusgrupp/static/js/787.50324aa8.chunk.js",
     "static/media/puitaed.jpg": "/tommy-ehitusgrupp/static/media/puitaed.99b5122b1e2688a25438.jpg",
     "static/media/33.jpg": "/tommy-ehitusgrupp/static/media/33.66a212389700d168edd2.jpg",
     "static/media/5.jpg": "/tommy-ehitusgrupp/static/media/5.3f96fa9bb94b5cc13eed.jpg",
@@ -29,11 +29,11 @@
     "static/media/mail.svg": "/tommy-ehitusgrupp/static/media/mail.782f5102f06c34c1439dc0e21fa103cd.svg",
     "index.html": "/tommy-ehitusgrupp/index.html",
     "main.4c7fc4d1.css.map": "/tommy-ehitusgrupp/static/css/main.4c7fc4d1.css.map",
-    "main.1ae68f76.js.map": "/tommy-ehitusgrupp/static/js/main.1ae68f76.js.map",
-    "787.0f5a48db.chunk.js.map": "/tommy-ehitusgrupp/static/js/787.0f5a48db.chunk.js.map"
+    "main.26307bf3.js.map": "/tommy-ehitusgrupp/static/js/main.26307bf3.js.map",
+    "787.50324aa8.chunk.js.map": "/tommy-ehitusgrupp/static/js/787.50324aa8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c7fc4d1.css",
-    "static/js/main.1ae68f76.js"
+    "static/js/main.26307bf3.js"
   ]
 }
